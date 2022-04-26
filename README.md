@@ -1,0 +1,1 @@
+# wangEditor-plugin-itemLink
